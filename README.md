@@ -318,19 +318,19 @@ Based on the EDA findings:
 
 Based on this analysis, the following recommendations are proposed:
 
-** Phased Rollout**
+**Phased Rollout**
 Instead of a single cutover date, introduce packaging changes gradually by region or platform. This limits simultaneous exposure across all customer segments and allows early feedback before full deployment.
 
-** Advance Customer Communication**
+**Advance Customer Communication**
 Proactively communicate the sustainability change to customers, particularly the Retail customer base (Families, Middle Aged, Retirees), through targeted campaigns before the change date. Framing the update as a values-aligned decision can reduce negative reactions.
 
-** Segment-Specific Monitoring**
+**Segment-Specific Monitoring**
 Set up pre/post dashboards segmented by demographics, platform, and region. This allows early detection of which groups are most affected and enables swift corrective action (e.g., loyalty incentives for high-impact segments).
 
-** Shopify Leverage**
+**Shopify Leverage**
 Shopify customers tend to have higher spend per transaction and may be more receptive to sustainable messaging. Leading the campaign with the Shopify channel could generate positive brand momentum before the full Retail rollout.
 
-** Establish A/B Baselines**
+**Establish A/B Baselines**
 Run controlled regional pilots before company-wide changes. This creates a cleaner comparison group and enables more precise attribution of any sales impact.
 
 
