@@ -1,6 +1,8 @@
 # Data Mart: Sustainable Packaging Impact Analysis
 ### Case Study | SQL Data Analysis | June 2020
 
+<img width="1080" height="1080" alt="cover" src="https://github.com/user-attachments/assets/75c863aa-4a2d-4db4-ad57-deeb15bae67d" />
+
 ---
 
 ## Background
